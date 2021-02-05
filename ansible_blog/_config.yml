@@ -25,7 +25,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: adam-mack07
 github_username: AdamMack2007
-
+hide_share_buttons: false
+title: Mack DevNet
 # Build settings
 theme: bulma-clean-theme
 plugins:
@@ -44,6 +45,10 @@ defaults:
       author: "Adam Mack"
       layout: post
       show_sidebar: true
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
