@@ -1,17 +1,29 @@
 ---
-layout: default
-title: About
+layout: page
+title: ""
 permalink: /about/
+hero_image: /assets/images/banner.jpg
+hero_height: is-large
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<br>
+ <div class="container">
+  <img src="/assets/images/about/20190303_115455.jpg" style="width:60%;">
+  <div class="text-block">
+    <h5>Which one is me??</h5>
+  </div>
+</div>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<br>
 
-[jekyll-organization]: https://github.com/jekyll
+My name is Adam Mack and I am a Ansible Solutions Architect at Red Hat and previously a network engineer for about 11 years.
+<br>
+
+You could have probably guessed by all of my mountain pictures that I am into the outdoors. When I am not working I am travelling somewhere or in the mountains either skiing, mountain biking, fly fishing, hiking or backpacking.
+<br>
+
+If you are ever in Utah and want to get out and explore hit me up on [LinkedIn!](https://www.linkedin.com/in/adam-mack07/)
+
+<img src="/assets/images/about/IMG_2066.jpg" style="width:30%;"> <img src="/assets/images/about/IMG_2691.jpg" style="width:30%;"> <img src="/assets/images/about/IMG_2886.jpg" style="width:30%;">
