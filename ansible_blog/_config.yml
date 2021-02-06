@@ -18,17 +18,37 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ansible Networking Blog
+#title: Mack DevNet
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog discussing Ansible networking basic to advanced topics.
+  Blog for Ansible network automation. Covers basics to advanced use cases for Cisco, Arista, F5 and Palo Alto devices.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: AdamMack2007
 linkedin_username: adam-mack07
+github_username: AdamMack2007
+hide_share_buttons: false
+title: Mack DevNet
 # Build settings
-theme: jekyll-theme-slate
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
+
+paginate: 5
+paginate_path: "/blog/page:num"
+#permalink: pretty
+show_sidebar: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Adam Mack"
+      layout: post
+      show_sidebar: true
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
