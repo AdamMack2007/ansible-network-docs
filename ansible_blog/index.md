@@ -1,48 +1,21 @@
 ---
-title: Mack DevNet
-subtitle: Ansible Networking Blog
 layout: page
+title: ""
+hero_image: assets/images/banner.jpg
+hero_height: is-large
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Welcome
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages.
+In this series of blog posts I will mainly be focusing on Ansible and the Ansible Automation Platform and how to get started with automating your network devices.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+Whether you are just starting on your automation journey or you are already well on your way, my goal is to help provide topics and examples that will make you a better engineer. Starting out with a whole new tool or set of tools, especially one that has programatic principals to it, can be overwhelming for some and my goal here is to make this easier for you to understand.
 
-## Ruby Gem
+Maybe you are curious how to start automating for personal reasons or you are thrown into it by your boss but not sure where to begin. Let's get you on the right path and show you what's possible.
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+<img src="assets/images/path.jpg"
+     width="650" heigh="650" />
 
-## GitHub Pages
-
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Instructions
-
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
-
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-- Page With Sidebar
-- Page Without Sidebar
-- Page With Menubar
-- Page With Tabs
-- Page Without Footer
-- Page Without Hero
-- Page With Contents
-- Landing Page With Callouts
-- Sponsors Page
-- Image Gallery
-- Blog
-- Post
+For some, myself included, Ansible and Python are a creative outlet that encourages you to create things that can really change how you feel about work. No more coming to work feeling overwhelmed or bored because you have a pile of tedious, easy to accomplish tasks waiting for you to complete. This is how you take your career to the next level and what better way than the tool with industry wide recognition from vendors like Cisco, F5, Palo Alto, Arista, Juniper and many more.
