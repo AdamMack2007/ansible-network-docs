@@ -7,8 +7,6 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# Welcome
-
 In this series of blog posts I will mainly be focusing on Ansible and the Ansible Automation Platform and how to get started with automating your network devices.
 
 Whether you are just starting on your automation journey or you are already well on your way, my goal is to help provide topics and examples that will make you a better engineer. Starting out with a whole new tool or set of tools, especially one that has programatic principals to it, can be overwhelming for some and my goal here is to make this easier for you to understand.
