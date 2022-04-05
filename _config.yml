@@ -7,7 +7,7 @@ github_username: AdamMack2007
 hide_share_buttons: false
 title: Mack DevNet
 # Build settings
-theme: bulma-clean-theme
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
